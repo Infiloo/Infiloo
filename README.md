@@ -1,8 +1,8 @@
 # 💫 Hi 👋, I'm Infiloo (Leo)
 
-- 🔭 **I’m currently working on:** Minecraft Plugins, Webapps & Raspberry Pi Projects, Android Apps
-- 🌱 **I’m currently learning:** Kotlin, Java, Web Development
-- 🎮 **Main interests:** Minecraft Server Development, Automation, Tools
+- 🔭 **I’m currently working on:** Webapps & Raspberry Pi Projects, Android Apps, Discord Bots
+- 🌱 **I’m currently learning:** Kotlin, Java, Web Development, Discordpy, Python
+- 🎮 **Main interests:** Minecraft Server Development, Android Apps, Web Development, UI/UX, Discord Bots
 - 📫 **How to reach me:** https://guns.lol/infiloo
 
 ---
