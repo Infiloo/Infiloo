@@ -19,7 +19,7 @@
 
 ## 🌐 Socials
 
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://guns.lol/infiloo)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://gravatar.me/infiloo)
 
 ---
 
