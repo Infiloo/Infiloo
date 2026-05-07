@@ -3,7 +3,7 @@
 - 🔭 **I’m currently working on:** Webapps & Raspberry Pi Projects, Android Apps, Discord Bots (Check the pinned Projects)
 - 🌱 **I’m currently learning:** Kotlin, Java, Web Development, Discordpy, Python
 - 🎮 **Main interests:** Minecraft Server Development, Android Apps, Web Development, UI/UX, Discord Bots
-- 📫 **How to reach me:** https://guns.lol/infiloo
+- 📫 **How to reach me:** https://gravatar.me/infiloo
 
 ---
 
