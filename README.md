@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 **I’m currently working on:** Webapps & Raspberry Pi Projects, Android Apps, Discord Bots (Check the pinned Projects)<br>- 🌱 **I’m currently learning:** Kotlin, Java, Web Development, Discordpy, Python<br>- 🎮 **Main interests:** Minecraft Server Development, Android Apps, Web Development, UI/UX, Discord Bots<br>- 📫 **How to reach me:** https://gravatar.me/infiloo
+-🔭 **I’m currently working on:** Webapps & Raspberry Pi Projects, Android Apps, Discord Bots (Check the pinned Projects)<br>- 🌱 **I’m currently learning:** Kotlin, Java, Web Development, Discordpy, Python<br>- 🎮 **Main interests:** Minecraft Server Development, Android Apps, Web Development, UI/UX, Discord Bots<br>- 📫 **How to reach me:** https://gravatar.me/infiloo
 
 
 ## 🌐 Socials:
